@@ -16,7 +16,7 @@
     "publish": "git checkout main && git pull && docker-compose up --build -d"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/core": "^3.9.1",
     "@docusaurus/preset-classic": "^3.7.0",
     "@mdx-js/react": "^3.1.0",
     "@svgr/webpack": "^5.5.0",
